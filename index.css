@@ -9,3 +9,13 @@
    background-color: #0f1111;
    color: white;
 }
+.navlogo{
+    height: 50px;
+    width:100px
+}
+.logo{
+    background-image: url("amazon logo.png");
+    height:50px;
+    width:100%;
+    background-size: cover;
+}
